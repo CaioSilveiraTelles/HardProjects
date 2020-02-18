@@ -12,14 +12,14 @@ Instructions:
 - make sure you have the correct version of Python installed
 - make sure you have the pycurl library installed
 
-Este bot faz voce reber curtidas e seguidores em sua conta do Instagram.
+Este bot faz voce receber curtidas e seguidores em sua conta do Instagram.
 Requisitos:
 - python> 2.6 mas <3.0
 - biblioteca pycurl
-- faça login na web.stagram.com antes de usar o bot
-Instruções:
-- verifique se você tem a versão correta do Python instalada
-- verifique se você tem a biblioteca pycurl instalada
+- faÃ§a login na web.stagram.com antes de usar o bot
+InstruÃ§Ãµes:
+- verifique se vocÃª tem a versÃ£o correta do Python instalada
+- verifique se vocÃª tem a biblioteca pycurl instalada
 
 import os
 import pycurl
@@ -29,7 +29,7 @@ import random
 import time
 
 ##### EDIT THESE BELOW
-##### Nao esqueça de Modificar
+##### Nao esqueÃ§a de Modificar
 # Sua senha e Login do instagram
 # your instagram username and password
 username = "username"
